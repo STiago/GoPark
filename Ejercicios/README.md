@@ -10,4 +10,4 @@ Directorio donde se encuentran los ejercicios realizados para los temas y semina
 - [Análisis de la AI de un sitio web](https://github.com/STiago/DES/blob/master/Ejercicios/ejeS4_AnalisisAI.pdf)
 - [App Móvil](https://github.com/STiago/DES/blob/master/Ejercicios/ejeS4_AppMovil.pdf)
 - [WireFlow](https://github.com/STiago/DES/blob/master/Ejercicios/ejeS4_WireFlow.pdf)
-- [Gestalt](https://github.com/STiago/DES/blob/master/Ejercicios/ejeT3_Gestaltpdf)
+- [Gestalt](https://github.com/STiago/DES/blob/master/Ejercicios/ejeT3_Gestalt%0A.pdf)
