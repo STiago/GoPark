@@ -110,7 +110,7 @@ Y los personajes [aquí](https://github.com/STiago/DES/blob/master/Practicas/Pra
 
 A continuación se explica el diagrama de conceptos de la aplicacin movil y de la aplicación web con sus correspondientes diagramas de flujo, hta, mapas de flujo, bocetos y las evaluaciones heurísticas.
 
-Consultar dicha información [aquí]()
+Consultar dicha información [aquí](https://github.com/STiago/DES/blob/master/Practicas/Practica3/practica3.pdf).
 
 ## Cuestionario para usuarios e Informe de evaluación
 
