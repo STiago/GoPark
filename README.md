@@ -1,4 +1,4 @@
-# DES
+# Go Park
 
 Repositorio creado para la asignatura Desarrollo y Evaluación de Sistemas Software Interactivos del máster en Ingeniería Informática que se imparte en la Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación.
 
