@@ -4,7 +4,8 @@ Repositorio creado para la asignatura Desarrollo y Evaluación de Sistemas Softw
 
 ## Introducción
 
-GoPark es el nombre que se le ha dado al sistema software que vamos a desarrollar como proyecto para la asignatura Desarrollo y Evaluación de Sistemas Software Interactivos.  De entre todas las ideas que han surgido durante el proceso de Brainstorming finalmente hemos seleccionado la que se presenta en este documento por ser la más creativa, innovadora, funcional y muy útil ya que resuelve el gran problema que supone en ciertas ocasiones aparcar en una determinada zona ya sea por el bullicio o el desconocimiento del lugar entre otros. 
+
+GoPark es el nombre que se le ha dado al sistema software que vamos a desarrollar como proyecto para la asignatura Desarrollo y Evaluación de Sistemas Software Interactivos.  De entre todas las ideas que han surgido durante el proceso de Brainstorming finalmente hemos seleccionado la que se presenta en este documento por ser la más creativa, innovadora, funcional y muy útil ya que resuelve el gran problema que supone en ciertas ocasiones aparcar en una determinada zona ya sea por el bullicio o el desconocimiento del lugar entre otros. 
 Cabe mencionar que la metodología que se va a usar en el desarrollo de esta aplicación va a ser centrada en el usuario.
 
 ## Descripción
