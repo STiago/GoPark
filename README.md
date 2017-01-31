@@ -1,6 +1,6 @@
 # Go Park
 
-La web de la aplicación se encuentra en: https://nickte0.wixsite.com/gopark
+La web general de la aplicación se encuentra en: https://nickte0.wixsite.com/gopark
 
 Repositorio creado para la asignatura Desarrollo y Evaluación de Sistemas Software Interactivos del máster en Ingeniería Informática que se imparte en la Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación.
 
